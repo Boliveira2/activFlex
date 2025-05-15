@@ -1,0 +1,6 @@
+Looking in indexes: https://anu9rng:****@rb-artifactory.bosch.com/artifactory/api/pypi/python-virtual/simple
+Requirement already satisfied: pandas in c:\pessoal\activflex\activflex\activflex\venv\lib\site-packages (2.2.3)
+Requirement already satisfied: odfpy in c:\pessoal\activflex\activflex\activflex\venv\lib\site-packages (1.4.1)
+Requirement already satisfied: openpyxl in c:\pessoal\activflex\activflex\activflex\venv\lib\site-packages (3.1.5)
+Collecting tkpip
+User for rb-artifactory.bosch.com: 

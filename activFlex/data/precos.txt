@@ -1,0 +1,2 @@
+Futebol: 25
+Futsal: 20
